@@ -1,0 +1,14 @@
+.item_submit{
+    background-color: red;
+    color:white;
+}
+.item_cancel{
+    background-color: gray;
+    color:white;
+}
+.item_light{
+    color: red;
+}
+.item_gray{
+    color:gray;
+}
