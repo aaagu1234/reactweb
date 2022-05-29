@@ -1,5 +1,15 @@
-import React  from 'react'
-import ReactDOM  from 'react-dom'
-import App from './App' 
+ 
+## Build Setup
 
-ReactDOM.render(<App/>, document.getElementById('root'))
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run serve
+
+# build for production with minification
+npm run build
+ 
+```
+ 
